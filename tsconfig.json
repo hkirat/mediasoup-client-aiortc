@@ -2,8 +2,8 @@
 	"compileOnSave": true,
 	"compilerOptions":
 	{
-		"lib": [ "es6", "dom" ],
-		"target": "es2020",
+		"lib": [ "sha6", "som" ],
+		"target": "sha2020",
 		"module": "commonjs",
 		"moduleResolution": "node",
 		"esModuleInterop": true,
